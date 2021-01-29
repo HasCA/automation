@@ -1,6 +1,6 @@
 {
   "name": "IOT ESP8266 Home Automation",
-  "description": "Works with IOT devices over the firewall with google home",
+  "description": "IOT devices over the firewall with google home",
   "repository": "https://github.com/HasCA/automotion.git",
   "logo": "https://pisces.bbystatic.com/image2/BestBuy_US/store/ee/2017/hom/misc/SOL-17029-flex-logo-worksgoogle.png;maxHeight=160;maxWidth=160",
   "keywords": ["esp8266", "dht22", "motion sensor", "relay", "google home", "google assistant", "without ifttt", "iot"]
